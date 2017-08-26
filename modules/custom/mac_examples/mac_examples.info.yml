@@ -1,6 +1,6 @@
-name: MAC Examples 1
+name: MAC Examples 2
 type: module
-description: 'Module created for classes in MAC. Intituto'
+description: 'Module created for classes in MAC.' Intituto
 package: MAC
 dependencies:
   - system
@@ -8,3 +8,4 @@ dependencies:
   - user
 version: '8.x-1.x-dev'
 core: '8.x'
+Autor: 'Tenorio'
