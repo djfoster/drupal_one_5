@@ -1,4 +1,4 @@
-name: MAC Examples
+name: MAC Examples1
 type: module
 description: 'Module created for classes in MAC.'
 package: MAC
@@ -7,4 +7,5 @@ dependencies:
   - node
   - user
 version: '8.x-1.x-dev'
+Autor: 'Tenorio'
 core: '8.x'
